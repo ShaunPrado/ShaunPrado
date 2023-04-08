@@ -5,7 +5,7 @@
 ## My Languages
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunprado&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on ApplyDroid, a job search automation platform. Check it out here: applydroid.com
 
 <!--
 **ShaunPrado/ShaunPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
