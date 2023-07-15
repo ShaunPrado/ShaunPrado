@@ -16,8 +16,6 @@
   <strong>Back end engineer with 3.5 years of experience and strong fundamentals. Likes building scalable web infrastructure and making websites fast.</strong>
 </p>
 
-🔭 I’m currently working on ApplyDroid, a job search automation platform. Check it out here: applydroid.com
-
 <p align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=shaunprado&theme=tokyonight&show_icons=true">
 </p>
