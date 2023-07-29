@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Back end engineer with 3.5 years of experience and strong fundamentals. Likes building scalable web infrastructure and making websites fast.</strong>
+  <strong>Back end engineer with 4.5 years of experience and strong fundamentals. Likes building scalable web infrastructure and making websites fast.</strong>
 </p>
 
 <p align="center">
