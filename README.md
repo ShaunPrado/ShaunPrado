@@ -19,7 +19,7 @@
 
 ### What I do
 
-- High-throughput backend systems in **Go** and **Python**
+- High-throughput backend systems in **Python**
 - Performance optimization and making slow things fast
 - AI/ML infrastructure and evaluation pipelines
 
