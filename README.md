@@ -22,11 +22,4 @@
 - Document extraction with VLMs, and the evaluation pipelines that tell you whether it worked
 - Fine tuning small models for cases where a frontier model is the wrong tool
 
-### Projects
-
-| Project | Description |
-|---------|-------------|
-| **polymarket-agent** | Autonomous prediction market trading agent. LangGraph orchestration with RAG based market analysis |
-| **cve-exploit-prediction** | Qwen 4B fine tuned with QLoRA to predict which newly disclosed CVEs get exploited |
-
 ---
